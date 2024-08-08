@@ -1,3 +1,3 @@
-## Este es una recopilacion de mis certifiaciones actuales
+### Recopilatorio de mis certificaciones actuales
 ---
 Se agregarán más en el futuro
